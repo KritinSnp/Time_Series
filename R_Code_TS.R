@@ -1,4 +1,4 @@
-load("/Users/dk/DSA/MATH5802/Coursework/pond.RData")
+load("/Users/dk/Documents/GitHub/Time_Series/pond.RData")
 X
 
 par(mfrow = c(1,1))
@@ -206,4 +206,6 @@ var(X)
 #acf(resid2)
 
 # pcf(resid2)
+
+
 
